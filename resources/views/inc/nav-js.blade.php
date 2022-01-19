@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand text-danger" href="{{ route('home') }}">HTML & CSS</a>
+    <a class="navbar-brand text-danger" href="{{ route('home') }}">JS</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -27,7 +27,7 @@
 
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Defination
+          JS Defination
           </a>
           <div class="dropdown-menu text-primary" aria-labelledby="navbarDropdown">
             <a class="dropdown-item text-primary" href="{{ route('definations.a') }}">A</a>
